@@ -1,5 +1,8 @@
 player-person-tracker
 =====================
+Project developed for CS726 course at the University of Auckland
+Basic leg tracking algorithm and implementation using the Player-Stage framework for execution on Pioneer robots.
+
 
 Instructions.
 ==========
